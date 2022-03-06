@@ -1,2 +1,2 @@
 # snoop-api
-Allows you to intercept Java applications locally
+Allows you to build javaagent like xposed style.
